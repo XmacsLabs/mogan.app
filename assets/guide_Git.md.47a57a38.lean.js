@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,N as s}from"./chunks/framework.72fe3cca.js";const m=JSON.parse('{"title":"Git Workflow","description":"","frontmatter":{},"headers":[],"relativePath":"guide/Git.md","lastUpdated":1677326064000}'),o={name:"guide/Git.md"},n=s("",25),i=[n];function r(l,c,p,h,g,d){return a(),t("div",null,i)}const b=e(o,[["render",r]]);export{m as __pageData,b as default};
