@@ -1,0 +1,1 @@
+const s="/assets/mogan_equation.C4g97iAD.png",t="/assets/mogan_structured_text.BrtGrHG_.png",a="/assets/mogan_cube.Cshgfy-j.png",o="/assets/mogan_slides.UWBn87gD.png",_="/assets/mogan_maxima.Ch0QdYfc.png",n="/assets/mogan_exam.DY5Yo6Vc.png";export{s as _,t as a,a as b,o as c,_ as d,n as e};
